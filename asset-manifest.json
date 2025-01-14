@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/portfolio_pukar/static/css/main.fd3b7e6b.css",
+    "main.js": "/portfolio_pukar/static/js/main.5d348900.js",
+    "static/js/488.21a3b654.chunk.js": "/portfolio_pukar/static/js/488.21a3b654.chunk.js",
+    "static/media/p3.png": "/portfolio_pukar/static/media/p3.25ac6f3571a7c0737f59.png",
+    "static/media/p2.png": "/portfolio_pukar/static/media/p2.0886a0e132af42edf60c.png",
+    "static/media/p4.png": "/portfolio_pukar/static/media/p4.a21c5d3cf1ab659e8a12.png",
+    "static/media/about.jpg": "/portfolio_pukar/static/media/about.197686848862ceb8bb1a.jpg",
+    "static/media/profile.jpg": "/portfolio_pukar/static/media/profile.197686848862ceb8bb1a.jpg",
+    "static/media/pukar.pdf": "/portfolio_pukar/static/media/pukar.90af24df6bc2a5f7e186.pdf",
+    "static/media/image.png": "/portfolio_pukar/static/media/image.a8f87fd33fabea60a074.png",
+    "static/media/logo.svg": "/portfolio_pukar/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/portfolio_pukar/index.html",
+    "main.fd3b7e6b.css.map": "/portfolio_pukar/static/css/main.fd3b7e6b.css.map",
+    "main.5d348900.js.map": "/portfolio_pukar/static/js/main.5d348900.js.map",
+    "488.21a3b654.chunk.js.map": "/portfolio_pukar/static/js/488.21a3b654.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd3b7e6b.css",
+    "static/js/main.5d348900.js"
+  ]
+}
